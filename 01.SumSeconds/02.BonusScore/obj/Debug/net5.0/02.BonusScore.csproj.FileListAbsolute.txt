@@ -1,0 +1,16 @@
+D:\Vissual studio\01.SumSeconds\02.BonusScore\bin\Debug\net5.0\02.BonusScore.exe
+D:\Vissual studio\01.SumSeconds\02.BonusScore\bin\Debug\net5.0\02.BonusScore.deps.json
+D:\Vissual studio\01.SumSeconds\02.BonusScore\bin\Debug\net5.0\02.BonusScore.runtimeconfig.json
+D:\Vissual studio\01.SumSeconds\02.BonusScore\bin\Debug\net5.0\02.BonusScore.runtimeconfig.dev.json
+D:\Vissual studio\01.SumSeconds\02.BonusScore\bin\Debug\net5.0\02.BonusScore.dll
+D:\Vissual studio\01.SumSeconds\02.BonusScore\bin\Debug\net5.0\02.BonusScore.pdb
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.csproj.AssemblyReference.cache
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.AssemblyInfoInputs.cache
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.AssemblyInfo.cs
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.csproj.CoreCompileInputs.cache
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.dll
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\refint\02.BonusScore.dll
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.pdb
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\02.BonusScore.genruntimeconfig.cache
+D:\Vissual studio\01.SumSeconds\02.BonusScore\obj\Debug\net5.0\ref\02.BonusScore.dll

@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\bin\Debug\net5.0\1. Ages.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\bin\Debug\net5.0\1. Ages.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\bin\Debug\net5.0\1. Ages.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\bin\Debug\net5.0\1. Ages.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\bin\Debug\net5.0\1. Ages.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\bin\Debug\net5.0\1. Ages.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\1. Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\1. Ages.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\1. Ages.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\1. Ages.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\1. Ages.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\refint\1. Ages.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\1. Ages.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\1. Ages.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\1. Ages\obj\Debug\net5.0\ref\1. Ages.dll

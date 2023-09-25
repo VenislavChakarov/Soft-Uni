@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.exe
+D:\Vissual studio\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.deps.json
+D:\Vissual studio\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.runtimeconfig.json
+D:\Vissual studio\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.dll
+D:\Vissual studio\While Loop - Exercise\04. Walking\bin\Debug\net5.0\04. Walking.pdb
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.dll
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\refint\04. Walking.dll
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.pdb
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\04. Walking.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Exercise\04. Walking\obj\Debug\net5.0\ref\04. Walking.dll

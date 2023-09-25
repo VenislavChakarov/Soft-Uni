@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\bin\Debug\net5.0\9.  Padawan Equipment.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\bin\Debug\net5.0\9.  Padawan Equipment.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\bin\Debug\net5.0\9.  Padawan Equipment.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\bin\Debug\net5.0\9.  Padawan Equipment.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\bin\Debug\net5.0\9.  Padawan Equipment.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\bin\Debug\net5.0\9.  Padawan Equipment.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\9.  Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\9.  Padawan Equipment.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\9.  Padawan Equipment.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\9.  Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\9.  Padawan Equipment.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\refint\9.  Padawan Equipment.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\9.  Padawan Equipment.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\9.  Padawan Equipment.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\9.  Padawan Equipment\obj\Debug\net5.0\ref\9.  Padawan Equipment.dll

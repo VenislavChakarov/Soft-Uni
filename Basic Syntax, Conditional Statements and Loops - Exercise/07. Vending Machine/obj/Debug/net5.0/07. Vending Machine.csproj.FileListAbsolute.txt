@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\refint\07. Vending Machine.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\ref\07. Vending Machine.dll

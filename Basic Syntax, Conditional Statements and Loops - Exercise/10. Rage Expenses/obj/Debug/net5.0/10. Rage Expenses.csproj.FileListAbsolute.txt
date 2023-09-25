@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\refint\10. Rage Expenses.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net5.0\ref\10. Rage Expenses.dll

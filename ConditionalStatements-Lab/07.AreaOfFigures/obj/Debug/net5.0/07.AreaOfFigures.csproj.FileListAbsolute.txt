@@ -1,0 +1,16 @@
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net5.0\07.AreaOfFigures.exe
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net5.0\07.AreaOfFigures.deps.json
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net5.0\07.AreaOfFigures.runtimeconfig.json
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net5.0\07.AreaOfFigures.runtimeconfig.dev.json
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net5.0\07.AreaOfFigures.dll
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\net5.0\07.AreaOfFigures.pdb
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.csproj.AssemblyReference.cache
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.AssemblyInfoInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.AssemblyInfo.cs
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.dll
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\refint\07.AreaOfFigures.dll
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.pdb
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\07.AreaOfFigures.genruntimeconfig.cache
+D:\Vissual studio\ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\net5.0\ref\07.AreaOfFigures.dll

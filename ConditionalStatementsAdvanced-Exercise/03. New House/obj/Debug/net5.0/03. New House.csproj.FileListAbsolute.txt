@@ -1,0 +1,16 @@
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\bin\Debug\net5.0\03. New House.exe
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\bin\Debug\net5.0\03. New House.deps.json
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.json
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.dev.json
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\bin\Debug\net5.0\03. New House.dll
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\bin\Debug\net5.0\03. New House.pdb
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.csproj.AssemblyReference.cache
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfoInputs.cache
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfo.cs
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.csproj.CoreCompileInputs.cache
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.dll
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\refint\03. New House.dll
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.pdb
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\03. New House.genruntimeconfig.cache
+D:\Vissual studio\ConditionalStatementsAdvanced-Exercise\03. New House\obj\Debug\net5.0\ref\03. New House.dll

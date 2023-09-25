@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.exe
+D:\Vissual studio\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.deps.json
+D:\Vissual studio\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.json
+D:\Vissual studio\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.dll
+D:\Vissual studio\While Loop - Lab\05. Account Balance\bin\Debug\net5.0\05. Account Balance.pdb
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.dll
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\refint\05. Account Balance.dll
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.pdb
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\05. Account Balance.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Lab\05. Account Balance\obj\Debug\net5.0\ref\05. Account Balance.dll

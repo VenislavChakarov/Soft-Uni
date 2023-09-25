@@ -1,0 +1,16 @@
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net5.0\03.EvenOrOdd.exe
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net5.0\03.EvenOrOdd.deps.json
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net5.0\03.EvenOrOdd.runtimeconfig.json
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net5.0\03.EvenOrOdd.runtimeconfig.dev.json
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net5.0\03.EvenOrOdd.dll
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\bin\Debug\net5.0\03.EvenOrOdd.pdb
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.csproj.AssemblyReference.cache
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.AssemblyInfoInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.AssemblyInfo.cs
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.dll
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\refint\03.EvenOrOdd.dll
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.pdb
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\03.EvenOrOdd.genruntimeconfig.cache
+D:\Vissual studio\ConditionalStatements-Lab\03.EvenOrOdd\obj\Debug\net5.0\ref\03.EvenOrOdd.dll

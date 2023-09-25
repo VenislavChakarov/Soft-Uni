@@ -1,0 +1,15 @@
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.exe
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.deps.json
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.dev.json
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.dll
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.pdb
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.dll
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\refint\09. Chars to String.dll
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.pdb
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\ref\09. Chars to String.dll

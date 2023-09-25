@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.exe
+D:\Vissual studio\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.deps.json
+D:\Vissual studio\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.json
+D:\Vissual studio\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.dll
+D:\Vissual studio\While Loop - Lab\06. Max Number\bin\Debug\net5.0\06. Max Number.pdb
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.dll
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\refint\06. Max Number.dll
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.pdb
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\06. Max Number.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Lab\06. Max Number\obj\Debug\net5.0\ref\06. Max Number.dll

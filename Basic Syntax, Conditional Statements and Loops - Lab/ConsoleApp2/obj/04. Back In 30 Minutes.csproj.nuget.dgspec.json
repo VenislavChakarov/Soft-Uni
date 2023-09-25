@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Vissual studio\\Basic Syntax, Conditional Statements and Loops - Lab\\ConsoleApp2\\04. Back In 30 Minutes.csproj": {}
+  },
+  "projects": {
+    "D:\\Vissual studio\\Basic Syntax, Conditional Statements and Loops - Lab\\ConsoleApp2\\04. Back In 30 Minutes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Vissual studio\\Basic Syntax, Conditional Statements and Loops - Lab\\ConsoleApp2\\04. Back In 30 Minutes.csproj",
+        "projectName": "04. Back In 30 Minutes",
+        "projectPath": "D:\\Vissual studio\\Basic Syntax, Conditional Statements and Loops - Lab\\ConsoleApp2\\04. Back In 30 Minutes.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Vissual studio\\Basic Syntax, Conditional Statements and Loops - Lab\\ConsoleApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net5.0\04. Food for Pets.exe
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net5.0\04. Food for Pets.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net5.0\04. Food for Pets.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net5.0\04. Food for Pets.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net5.0\04. Food for Pets.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\bin\Debug\net5.0\04. Food for Pets.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\refint\04. Food for Pets.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\04. Food for Pets.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\04. Food for Pets\obj\Debug\net5.0\ref\04. Food for Pets.dll

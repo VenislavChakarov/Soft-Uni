@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.exe
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\bin\Debug\net5.0\02. Cat Walking.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\refint\02. Cat Walking.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\02. Cat Walking.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\02. Cat Walking\obj\Debug\net5.0\ref\02. Cat Walking.dll

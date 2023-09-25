@@ -1,0 +1,16 @@
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\bin\Debug\net5.0\10._Invalid_Number.exe
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\bin\Debug\net5.0\10._Invalid_Number.deps.json
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\bin\Debug\net5.0\10._Invalid_Number.runtimeconfig.json
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\bin\Debug\net5.0\10._Invalid_Number.runtimeconfig.dev.json
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\bin\Debug\net5.0\10._Invalid_Number.dll
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\bin\Debug\net5.0\10._Invalid_Number.pdb
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.csproj.AssemblyReference.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.AssemblyInfoInputs.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.AssemblyInfo.cs
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.dll
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\refint\10._Invalid_Number.dll
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.pdb
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\10._Invalid_Number.genruntimeconfig.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\10._Invalid_Number\obj\Debug\net5.0\ref\10._Invalid_Number.dll

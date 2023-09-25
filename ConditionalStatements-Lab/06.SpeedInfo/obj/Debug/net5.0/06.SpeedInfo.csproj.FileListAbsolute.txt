@@ -1,0 +1,16 @@
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.exe
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.deps.json
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.runtimeconfig.json
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.runtimeconfig.dev.json
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.dll
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\bin\Debug\net5.0\06.SpeedInfo.pdb
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.csproj.AssemblyReference.cache
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.AssemblyInfoInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.AssemblyInfo.cs
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.dll
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\refint\06.SpeedInfo.dll
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.pdb
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\06.SpeedInfo.genruntimeconfig.cache
+D:\Vissual studio\ConditionalStatements-Lab\06.SpeedInfo\obj\Debug\net5.0\ref\06.SpeedInfo.dll

@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net5.0\06. Foreign Languages.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\refint\06. Foreign Languages.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\06. Foreign Languages.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net5.0\ref\06. Foreign Languages.dll

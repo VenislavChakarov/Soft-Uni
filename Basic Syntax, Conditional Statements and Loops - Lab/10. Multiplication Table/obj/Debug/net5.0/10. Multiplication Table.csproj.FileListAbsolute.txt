@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\refint\10. Multiplication Table.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\ref\10. Multiplication Table.dll

@@ -1,0 +1,14 @@
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net6.0\03. Elevator.exe
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net6.0\03. Elevator.deps.json
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net6.0\03. Elevator.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net6.0\03. Elevator.dll
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net6.0\03. Elevator.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\03. Elevator.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\03. Elevator.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\03. Elevator.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\03. Elevator.dll
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\refint\03. Elevator.dll
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\03. Elevator.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\03. Elevator.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net6.0\ref\03. Elevator.dll

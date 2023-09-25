@@ -1,0 +1,15 @@
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\refint\01. Integer Operations.dll
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll

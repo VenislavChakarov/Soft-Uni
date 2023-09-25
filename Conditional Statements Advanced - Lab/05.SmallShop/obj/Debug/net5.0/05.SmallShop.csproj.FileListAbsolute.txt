@@ -1,0 +1,16 @@
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\bin\Debug\net5.0\05.SmallShop.exe
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\bin\Debug\net5.0\05.SmallShop.deps.json
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\bin\Debug\net5.0\05.SmallShop.runtimeconfig.json
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\bin\Debug\net5.0\05.SmallShop.runtimeconfig.dev.json
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\bin\Debug\net5.0\05.SmallShop.dll
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\bin\Debug\net5.0\05.SmallShop.pdb
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.csproj.AssemblyReference.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.AssemblyInfoInputs.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.AssemblyInfo.cs
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.dll
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\refint\05.SmallShop.dll
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.pdb
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\05.SmallShop.genruntimeconfig.cache
+D:\Vissual studio\Conditional Statements Advanced - Lab\05.SmallShop\obj\Debug\net5.0\ref\05.SmallShop.dll

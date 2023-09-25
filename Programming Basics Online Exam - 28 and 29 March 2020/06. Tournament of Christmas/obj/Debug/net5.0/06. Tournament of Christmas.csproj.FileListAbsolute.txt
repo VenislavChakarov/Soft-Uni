@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.exe
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\bin\Debug\net5.0\06. Tournament of Christmas.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\refint\06. Tournament of Christmas.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\06. Tournament of Christmas.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\06. Tournament of Christmas\obj\Debug\net5.0\ref\06. Tournament of Christmas.dll

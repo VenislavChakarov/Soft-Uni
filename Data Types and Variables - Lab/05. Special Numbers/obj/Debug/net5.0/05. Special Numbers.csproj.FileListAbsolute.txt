@@ -1,0 +1,15 @@
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.exe
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.deps.json
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.dev.json
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.dll
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.pdb
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.dll
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\refint\05. Special Numbers.dll
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.pdb
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\ref\05. Special Numbers.dll

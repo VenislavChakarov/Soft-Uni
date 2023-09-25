@@ -1,0 +1,15 @@
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.exe
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.deps.json
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.json
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.dev.json
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.dll
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.pdb
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfo.cs
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.dll
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\refint\02. Pounds to Dollars.dll
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.pdb
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.genruntimeconfig.cache
+D:\Vissual studio\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\obj\Debug\net5.0\ref\02. Pounds to Dollars.dll

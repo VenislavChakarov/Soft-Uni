@@ -1,0 +1,14 @@
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net6.0\06. Triples of Latin Letters.exe
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net6.0\06. Triples of Latin Letters.deps.json
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net6.0\06. Triples of Latin Letters.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net6.0\06. Triples of Latin Letters.dll
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net6.0\06. Triples of Latin Letters.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\06. Triples of Latin Letters.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\06. Triples of Latin Letters.dll
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\refint\06. Triples of Latin Letters.dll
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\06. Triples of Latin Letters.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\06. Triples of Latin Letters.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net6.0\ref\06. Triples of Latin Letters.dll

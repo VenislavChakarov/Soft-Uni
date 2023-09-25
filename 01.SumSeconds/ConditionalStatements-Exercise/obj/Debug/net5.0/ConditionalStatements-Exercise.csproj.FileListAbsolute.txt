@@ -1,0 +1,16 @@
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\bin\Debug\net5.0\ConditionalStatements-Exercise.exe
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\bin\Debug\net5.0\ConditionalStatements-Exercise.deps.json
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\bin\Debug\net5.0\ConditionalStatements-Exercise.runtimeconfig.json
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\bin\Debug\net5.0\ConditionalStatements-Exercise.runtimeconfig.dev.json
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\bin\Debug\net5.0\ConditionalStatements-Exercise.dll
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\bin\Debug\net5.0\ConditionalStatements-Exercise.pdb
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.csproj.AssemblyReference.cache
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.AssemblyInfoInputs.cache
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.AssemblyInfo.cs
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.csproj.CoreCompileInputs.cache
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.dll
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\refint\ConditionalStatements-Exercise.dll
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.pdb
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ConditionalStatements-Exercise.genruntimeconfig.cache
+D:\Vissual studio\01.SumSeconds\ConditionalStatements-Exercise\obj\Debug\net5.0\ref\ConditionalStatements-Exercise.dll

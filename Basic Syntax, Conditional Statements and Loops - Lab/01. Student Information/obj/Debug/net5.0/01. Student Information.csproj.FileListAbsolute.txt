@@ -1,0 +1,16 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.csproj.AssemblyReference.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\refint\01. Student Information.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\ref\01. Student Information.dll

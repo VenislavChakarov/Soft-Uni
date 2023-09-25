@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.exe
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\refint\05. Care of Puppy.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Care of Puppy\obj\Debug\net5.0\ref\05. Care of Puppy.dll

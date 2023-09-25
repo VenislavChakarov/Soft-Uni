@@ -1,0 +1,16 @@
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.exe
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.deps.json
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.runtimeconfig.json
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.runtimeconfig.dev.json
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.dll
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\bin\Debug\net5.0\10. Odd Even Sum.pdb
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.csproj.AssemblyReference.cache
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.AssemblyInfoInputs.cache
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.AssemblyInfo.cs
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.dll
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\refint\10. Odd Even Sum.dll
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.pdb
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\10. Odd Even Sum.genruntimeconfig.cache
+D:\Vissual studio\For Loop - Lab\10. Odd Even Sum\obj\Debug\net5.0\ref\10. Odd Even Sum.dll

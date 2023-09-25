@@ -1,0 +1,14 @@
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.exe
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.deps.json
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.dll
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.dll
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\refint\5. Print Part of the ASCII Table.dll
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\ref\5. Print Part of the ASCII Table.dll

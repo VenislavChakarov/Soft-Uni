@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.exe
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.dll
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\bin\Debug\net5.0\02. Add Bags.pdb
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.dll
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\refint\02. Add Bags.dll
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.pdb
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\02. Add Bags.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\02. Add Bags\obj\Debug\net5.0\ref\02. Add Bags.dll

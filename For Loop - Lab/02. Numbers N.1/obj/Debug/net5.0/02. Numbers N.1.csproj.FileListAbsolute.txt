@@ -1,0 +1,16 @@
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.exe
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.deps.json
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.runtimeconfig.json
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.runtimeconfig.dev.json
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.dll
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\bin\Debug\net5.0\02. Numbers N.1.pdb
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.csproj.AssemblyReference.cache
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.AssemblyInfoInputs.cache
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.AssemblyInfo.cs
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.csproj.CoreCompileInputs.cache
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.dll
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\refint\02. Numbers N.1.dll
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.pdb
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\02. Numbers N.1.genruntimeconfig.cache
+D:\Vissual studio\For Loop - Lab\02. Numbers N.1\obj\Debug\net5.0\ref\02. Numbers N.1.dll

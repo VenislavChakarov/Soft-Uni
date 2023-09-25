@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\refint\02. Division.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\ref\02. Division.dll

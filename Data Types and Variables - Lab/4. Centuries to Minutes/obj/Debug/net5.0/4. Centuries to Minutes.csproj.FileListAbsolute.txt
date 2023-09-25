@@ -1,0 +1,15 @@
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.exe
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.deps.json
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.runtimeconfig.dev.json
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.dll
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\bin\Debug\net5.0\4. Centuries to Minutes.pdb
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.dll
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\refint\4. Centuries to Minutes.dll
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.pdb
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\4. Centuries to Minutes.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Lab\4. Centuries to Minutes\obj\Debug\net5.0\ref\4. Centuries to Minutes.dll

@@ -1,0 +1,16 @@
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.exe
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.deps.json
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.runtimeconfig.json
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.runtimeconfig.dev.json
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.dll
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.pdb
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.csproj.AssemblyReference.cache
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.AssemblyInfoInputs.cache
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.AssemblyInfo.cs
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.dll
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\refint\06. World Swimming Record.dll
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.pdb
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.genruntimeconfig.cache
+D:\Vissual studio\01.SumSeconds\06. World Swimming Record\obj\Debug\net5.0\ref\06. World Swimming Record.dll

@@ -1,0 +1,16 @@
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.exe
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.deps.json
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.runtimeconfig.json
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.runtimeconfig.dev.json
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.dll
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.pdb
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.csproj.AssemblyReference.cache
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.AssemblyInfoInputs.cache
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.AssemblyInfo.cs
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.csproj.CoreCompileInputs.cache
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.dll
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\refint\Time+15Minutes.dll
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.pdb
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.genruntimeconfig.cache
+D:\Vissual studio\01.SumSeconds\Time+15Minutes\obj\Debug\net5.0\ref\Time+15Minutes.dll

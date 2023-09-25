@@ -1,0 +1,15 @@
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.exe
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.deps.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.dev.json
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfoInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfo.cs
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\refint\06. Strong number.dll
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.pdb
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.genruntimeconfig.cache
+D:\Vissual studio\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net5.0\ref\06. Strong number.dll

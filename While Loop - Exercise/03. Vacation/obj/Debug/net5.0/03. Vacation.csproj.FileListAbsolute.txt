@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.exe
+D:\Vissual studio\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.deps.json
+D:\Vissual studio\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.json
+D:\Vissual studio\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.dll
+D:\Vissual studio\While Loop - Exercise\03. Vacation\bin\Debug\net5.0\03. Vacation.pdb
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.dll
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\refint\03. Vacation.dll
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.pdb
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\03. Vacation.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Exercise\03. Vacation\obj\Debug\net5.0\ref\03. Vacation.dll

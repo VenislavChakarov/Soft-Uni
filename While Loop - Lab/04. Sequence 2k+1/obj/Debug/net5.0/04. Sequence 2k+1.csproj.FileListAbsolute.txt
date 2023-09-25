@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.exe
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.deps.json
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.json
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.dll
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net5.0\04. Sequence 2k+1.pdb
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.dll
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\refint\04. Sequence 2k+1.dll
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.pdb
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\04. Sequence 2k+1.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net5.0\ref\04. Sequence 2k+1.dll

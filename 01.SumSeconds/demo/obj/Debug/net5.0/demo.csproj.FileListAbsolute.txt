@@ -1,0 +1,16 @@
+D:\Vissual studio\01.SumSeconds\demo\bin\Debug\net5.0\demo.exe
+D:\Vissual studio\01.SumSeconds\demo\bin\Debug\net5.0\demo.deps.json
+D:\Vissual studio\01.SumSeconds\demo\bin\Debug\net5.0\demo.runtimeconfig.json
+D:\Vissual studio\01.SumSeconds\demo\bin\Debug\net5.0\demo.runtimeconfig.dev.json
+D:\Vissual studio\01.SumSeconds\demo\bin\Debug\net5.0\demo.dll
+D:\Vissual studio\01.SumSeconds\demo\bin\Debug\net5.0\demo.pdb
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.csproj.AssemblyReference.cache
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.AssemblyInfoInputs.cache
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.AssemblyInfo.cs
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.csproj.CoreCompileInputs.cache
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.dll
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\refint\demo.dll
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.pdb
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\demo.genruntimeconfig.cache
+D:\Vissual studio\01.SumSeconds\demo\obj\Debug\net5.0\ref\demo.dll

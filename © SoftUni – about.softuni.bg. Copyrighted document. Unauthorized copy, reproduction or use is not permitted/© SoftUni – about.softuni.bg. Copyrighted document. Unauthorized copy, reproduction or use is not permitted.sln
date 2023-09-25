@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Convert Meters to Kilometers", "..\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\01. Convert Meters to Kilometers\01. Convert Meters to Kilometers.csproj", "{EE69BA04-50E5-4D5F-BC85-D2A52B6430B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Pounds to Dollars", "..\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\02. Pounds to Dollars\02. Pounds to Dollars.csproj", "{6DB79B1B-A639-49F1-AE20-5A152CD42183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Exact Sum of Real Numbers", "..\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\03. Exact Sum of Real Numbers\03. Exact Sum of Real Numbers.csproj", "{BDBCF6B6-F61B-4F40-B4FC-622E48DC996F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Centuries to Minutes", "..\© SoftUni – about.softuni.bg. Copyrighted document. Unauthorized copy, reproduction or use is not permitted\04. Centuries to Minutes\04. Centuries to Minutes.csproj", "{766DEE33-BE30-4154-8F1E-6746E1379B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE69BA04-50E5-4D5F-BC85-D2A52B6430B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE69BA04-50E5-4D5F-BC85-D2A52B6430B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE69BA04-50E5-4D5F-BC85-D2A52B6430B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE69BA04-50E5-4D5F-BC85-D2A52B6430B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB79B1B-A639-49F1-AE20-5A152CD42183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB79B1B-A639-49F1-AE20-5A152CD42183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB79B1B-A639-49F1-AE20-5A152CD42183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB79B1B-A639-49F1-AE20-5A152CD42183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBCF6B6-F61B-4F40-B4FC-622E48DC996F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBCF6B6-F61B-4F40-B4FC-622E48DC996F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBCF6B6-F61B-4F40-B4FC-622E48DC996F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBCF6B6-F61B-4F40-B4FC-622E48DC996F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766DEE33-BE30-4154-8F1E-6746E1379B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766DEE33-BE30-4154-8F1E-6746E1379B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766DEE33-BE30-4154-8F1E-6746E1379B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766DEE33-BE30-4154-8F1E-6746E1379B06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {463309DE-CE4E-48D2-974C-54A9A963C8D0}
+	EndGlobalSection
+EndGlobal

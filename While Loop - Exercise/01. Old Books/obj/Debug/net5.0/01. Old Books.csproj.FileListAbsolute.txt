@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.exe
+D:\Vissual studio\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.deps.json
+D:\Vissual studio\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.json
+D:\Vissual studio\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.dll
+D:\Vissual studio\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.pdb
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.dll
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\refint\01. Old Books.dll
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.pdb
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\ref\01. Old Books.dll

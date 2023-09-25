@@ -1,0 +1,16 @@
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.exe
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.deps.json
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.json
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.dev.json
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.dll
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.pdb
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.AssemblyReference.cache
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfo.cs
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.dll
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\refint\04. Even Powers of 2.dll
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.pdb
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.genruntimeconfig.cache
+D:\Vissual studio\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\ref\04. Even Powers of 2.dll

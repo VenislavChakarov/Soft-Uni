@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll

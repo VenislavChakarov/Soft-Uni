@@ -1,0 +1,14 @@
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net6.0\07. Water Overflow.exe
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net6.0\07. Water Overflow.deps.json
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net6.0\07. Water Overflow.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net6.0\07. Water Overflow.dll
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net6.0\07. Water Overflow.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\07. Water Overflow.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\07. Water Overflow.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\07. Water Overflow.dll
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\refint\07. Water Overflow.dll
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\07. Water Overflow.pdb
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\07. Water Overflow.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net6.0\ref\07. Water Overflow.dll

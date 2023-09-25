@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.exe
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.deps.json
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.runtimeconfig.json
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.dll
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\bin\Debug\net5.0\02. Exam Preparation.pdb
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.dll
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\refint\02. Exam Preparation.dll
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.pdb
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\02. Exam Preparation.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Exercise\02. Exam Preparation\obj\Debug\net5.0\ref\02. Exam Preparation.dll

@@ -1,0 +1,15 @@
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.exe
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.deps.json
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.dll
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.pdb
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.dll
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\refint\10. Lower or Upper.dll
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.pdb
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache
+D:\Vissual studio\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\ref\10. Lower or Upper.dll

@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.exe
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.dll
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.pdb
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.dll
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\refint\03. Aluminum Joinery.dll
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.pdb
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\ref\03. Aluminum Joinery.dll

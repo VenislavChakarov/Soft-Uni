@@ -1,0 +1,16 @@
+D:\Vissual studio\While Loop - Lab\01. Read Text\bin\Debug\net5.0\01. Read Text.exe
+D:\Vissual studio\While Loop - Lab\01. Read Text\bin\Debug\net5.0\01. Read Text.deps.json
+D:\Vissual studio\While Loop - Lab\01. Read Text\bin\Debug\net5.0\01. Read Text.runtimeconfig.json
+D:\Vissual studio\While Loop - Lab\01. Read Text\bin\Debug\net5.0\01. Read Text.runtimeconfig.dev.json
+D:\Vissual studio\While Loop - Lab\01. Read Text\bin\Debug\net5.0\01. Read Text.dll
+D:\Vissual studio\While Loop - Lab\01. Read Text\bin\Debug\net5.0\01. Read Text.pdb
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.csproj.AssemblyReference.cache
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.AssemblyInfoInputs.cache
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.AssemblyInfo.cs
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.csproj.CoreCompileInputs.cache
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.dll
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\refint\01. Read Text.dll
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.pdb
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\01. Read Text.genruntimeconfig.cache
+D:\Vissual studio\While Loop - Lab\01. Read Text\obj\Debug\net5.0\ref\01. Read Text.dll

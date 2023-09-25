@@ -1,0 +1,16 @@
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\bin\Debug\net5.0\01. Pipes In Pool.exe
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\bin\Debug\net5.0\01. Pipes In Pool.deps.json
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\bin\Debug\net5.0\01. Pipes In Pool.runtimeconfig.json
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\bin\Debug\net5.0\01. Pipes In Pool.runtimeconfig.dev.json
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\bin\Debug\net5.0\01. Pipes In Pool.dll
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\bin\Debug\net5.0\01. Pipes In Pool.pdb
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.csproj.AssemblyReference.cache
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.AssemblyInfoInputs.cache
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.AssemblyInfo.cs
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.csproj.CoreCompileInputs.cache
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.dll
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\refint\01. Pipes In Pool.dll
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.pdb
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\01. Pipes In Pool.genruntimeconfig.cache
+D:\Vissual studio\CondishanalStatmentsMoreEx\01. Pipes In Pool\obj\Debug\net5.0\ref\01. Pipes In Pool.dll

@@ -1,0 +1,16 @@
+D:\Vissual studio\01.SumSeconds\04.ToyShop\bin\Debug\net5.0\04.ToyShop.exe
+D:\Vissual studio\01.SumSeconds\04.ToyShop\bin\Debug\net5.0\04.ToyShop.deps.json
+D:\Vissual studio\01.SumSeconds\04.ToyShop\bin\Debug\net5.0\04.ToyShop.runtimeconfig.json
+D:\Vissual studio\01.SumSeconds\04.ToyShop\bin\Debug\net5.0\04.ToyShop.runtimeconfig.dev.json
+D:\Vissual studio\01.SumSeconds\04.ToyShop\bin\Debug\net5.0\04.ToyShop.dll
+D:\Vissual studio\01.SumSeconds\04.ToyShop\bin\Debug\net5.0\04.ToyShop.pdb
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.csproj.AssemblyReference.cache
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.AssemblyInfoInputs.cache
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.AssemblyInfo.cs
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.csproj.CoreCompileInputs.cache
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.dll
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\refint\04.ToyShop.dll
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.pdb
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\04.ToyShop.genruntimeconfig.cache
+D:\Vissual studio\01.SumSeconds\04.ToyShop\obj\Debug\net5.0\ref\04.ToyShop.dll

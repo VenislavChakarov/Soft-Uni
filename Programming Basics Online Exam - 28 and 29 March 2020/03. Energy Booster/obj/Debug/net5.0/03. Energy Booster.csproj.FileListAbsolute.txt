@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.exe
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\bin\Debug\net5.0\03. Energy Booster.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\refint\03. Energy Booster.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\03. Energy Booster.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\03. Energy Booster\obj\Debug\net5.0\ref\03. Energy Booster.dll

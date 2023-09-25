@@ -1,0 +1,16 @@
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.exe
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.deps.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.runtimeconfig.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.runtimeconfig.dev.json
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\net5.0\05. Suitcases Load.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.csproj.AssemblyReference.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.AssemblyInfoInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.AssemblyInfo.cs
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\refint\05. Suitcases Load.dll
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.pdb
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\05. Suitcases Load.genruntimeconfig.cache
+D:\Vissual studio\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\net5.0\ref\05. Suitcases Load.dll

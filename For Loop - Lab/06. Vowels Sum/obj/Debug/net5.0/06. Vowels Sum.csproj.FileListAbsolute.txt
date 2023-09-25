@@ -1,0 +1,16 @@
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.AssemblyReference.cache
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfoInputs.cache
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfo.cs
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.CoreCompileInputs.cache
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.exe
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.deps.json
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.json
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.dev.json
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.dll
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.pdb
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.dll
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\refint\06. Vowels Sum.dll
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.pdb
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.genruntimeconfig.cache
+D:\Vissual studio\For Loop - Lab\06. Vowels Sum\obj\Debug\net5.0\ref\06. Vowels Sum.dll

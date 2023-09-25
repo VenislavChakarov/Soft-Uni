@@ -1,0 +1,16 @@
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.exe
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.deps.json
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.json
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.dev.json
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.dll
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\bin\Debug\net5.0\02. Greater Number.pdb
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.csproj.AssemblyReference.cache
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfoInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfo.cs
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.csproj.CoreCompileInputs.cache
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.dll
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\refint\02. Greater Number.dll
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.pdb
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\02. Greater Number.genruntimeconfig.cache
+D:\Vissual studio\ConditionalStatements-Lab\02. Greater Number\obj\Debug\net5.0\ref\02. Greater Number.dll
