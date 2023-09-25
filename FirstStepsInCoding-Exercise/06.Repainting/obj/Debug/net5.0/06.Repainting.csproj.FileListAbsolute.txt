@@ -1,0 +1,16 @@
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.exe
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.deps.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.runtimeconfig.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.runtimeconfig.dev.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net5.0\06.Repainting.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.csproj.AssemblyReference.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.AssemblyInfoInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.AssemblyInfo.cs
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.csproj.CoreCompileInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\refint\06.Repainting.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\06.Repainting.genruntimeconfig.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net5.0\ref\06.Repainting.dll

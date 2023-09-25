@@ -1,0 +1,16 @@
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net5.0\05.SuppliesforSchool.exe
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net5.0\05.SuppliesforSchool.deps.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net5.0\05.SuppliesforSchool.runtimeconfig.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net5.0\05.SuppliesforSchool.runtimeconfig.dev.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net5.0\05.SuppliesforSchool.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net5.0\05.SuppliesforSchool.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.csproj.AssemblyReference.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.AssemblyInfoInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.AssemblyInfo.cs
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.csproj.CoreCompileInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\refint\05.SuppliesforSchool.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\05.SuppliesforSchool.genruntimeconfig.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net5.0\ref\05.SuppliesforSchool.dll

@@ -1,0 +1,16 @@
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.csproj.AssemblyReference.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.AssemblyInfoInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.AssemblyInfo.cs
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.csproj.CoreCompileInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net5.0\09.FishTank.exe
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net5.0\09.FishTank.deps.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net5.0\09.FishTank.runtimeconfig.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net5.0\09.FishTank.runtimeconfig.dev.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net5.0\09.FishTank.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\bin\Debug\net5.0\09.FishTank.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\refint\09.FishTank.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\09.FishTank.genruntimeconfig.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\09.FishTank\obj\Debug\net5.0\ref\09.FishTank.dll

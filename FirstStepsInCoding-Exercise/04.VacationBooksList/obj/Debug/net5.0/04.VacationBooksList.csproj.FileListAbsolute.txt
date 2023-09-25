@@ -1,0 +1,16 @@
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net5.0\04.VacationBooksList.exe
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net5.0\04.VacationBooksList.deps.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net5.0\04.VacationBooksList.runtimeconfig.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net5.0\04.VacationBooksList.runtimeconfig.dev.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net5.0\04.VacationBooksList.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\bin\Debug\net5.0\04.VacationBooksList.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.csproj.AssemblyReference.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.AssemblyInfoInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.AssemblyInfo.cs
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.csproj.CoreCompileInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\refint\04.VacationBooksList.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\04.VacationBooksList.genruntimeconfig.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\04.VacationBooksList\obj\Debug\net5.0\ref\04.VacationBooksList.dll

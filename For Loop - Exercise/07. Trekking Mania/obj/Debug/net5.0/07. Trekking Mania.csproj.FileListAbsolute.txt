@@ -1,0 +1,16 @@
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.exe
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.deps.json
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.json
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.runtimeconfig.dev.json
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.dll
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\bin\Debug\net5.0\07. Trekking Mania.pdb
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.csproj.AssemblyReference.cache
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfoInputs.cache
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.AssemblyInfo.cs
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.csproj.CoreCompileInputs.cache
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.dll
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\refint\07. Trekking Mania.dll
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.pdb
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\07. Trekking Mania.genruntimeconfig.cache
+D:\Vissual studio\For Loop - Exercise\07. Trekking Mania\obj\Debug\net5.0\ref\07. Trekking Mania.dll

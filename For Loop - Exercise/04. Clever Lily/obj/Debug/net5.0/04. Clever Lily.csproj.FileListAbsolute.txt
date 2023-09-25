@@ -1,0 +1,16 @@
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.exe
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.deps.json
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.json
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.runtimeconfig.dev.json
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.dll
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\bin\Debug\net5.0\04. Clever Lily.pdb
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.AssemblyReference.cache
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfoInputs.cache
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.AssemblyInfo.cs
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.csproj.CoreCompileInputs.cache
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.dll
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\refint\04. Clever Lily.dll
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.pdb
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\04. Clever Lily.genruntimeconfig.cache
+D:\Vissual studio\For Loop - Exercise\04. Clever Lily\obj\Debug\net5.0\ref\04. Clever Lily.dll

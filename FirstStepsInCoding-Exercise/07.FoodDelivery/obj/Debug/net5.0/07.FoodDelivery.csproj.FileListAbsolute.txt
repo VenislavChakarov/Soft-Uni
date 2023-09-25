@@ -1,0 +1,16 @@
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.csproj.AssemblyReference.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.AssemblyInfoInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.AssemblyInfo.cs
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.exe
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.deps.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.runtimeconfig.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.runtimeconfig.dev.json
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\net5.0\07.FoodDelivery.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\refint\07.FoodDelivery.dll
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.pdb
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\07.FoodDelivery.genruntimeconfig.cache
+D:\Vissual studio\FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\net5.0\ref\07.FoodDelivery.dll

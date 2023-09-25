@@ -1,0 +1,16 @@
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.exe
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.deps.json
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.runtimeconfig.json
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.runtimeconfig.dev.json
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.dll
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.pdb
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.csproj.AssemblyReference.cache
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.AssemblyInfoInputs.cache
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.AssemblyInfo.cs
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.csproj.CoreCompileInputs.cache
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.dll
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\refint\03. Painting Eggs.dll
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.pdb
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.genruntimeconfig.cache
+D:\Vissual studio\Exam-Preparation\03. Painting Eggs\obj\Debug\net5.0\ref\03. Painting Eggs.dll

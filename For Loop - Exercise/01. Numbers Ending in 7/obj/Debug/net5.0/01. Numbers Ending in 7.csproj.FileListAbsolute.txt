@@ -1,0 +1,16 @@
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.exe
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.deps.json
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.json
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.dev.json
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.dll
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.pdb
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfo.cs
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.dll
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\refint\01. Numbers Ending in 7.dll
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.pdb
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.genruntimeconfig.cache
+D:\Vissual studio\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\ref\01. Numbers Ending in 7.dll
